@@ -1,0 +1,24 @@
+{
+  "name": "scientific-manuscript-writing-kit",
+  "version": "0.1.0",
+  "description": "Reusable Codex skills for scientific manuscript writing, revision, journal adaptation, cover letters, reviewer responses, reproducibility audits, and scientific English polishing.",
+  "author": {
+    "name": "Wawei1027",
+    "email": "researcher@example.local",
+    "url": "https://github.com/Wawei1027/scientific-manuscript-writing-codex-kit"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Scientific Manuscript Writing Kit",
+    "shortDescription": "Manuscript writing, revision, journal adaptation, cover letters, reviewer responses, and scientific English polishing.",
+    "longDescription": "Reusable Codex skills for scientific manuscript writing, structural editing, microbiome Results writing, Discussion logic, Methods reproducibility audits, journal style adaptation, cover letters, reviewer responses, and scientific English polishing while preserving scientific accuracy.",
+    "developerName": "Wawei1027",
+    "category": "Research",
+    "capabilities": ["Write"],
+    "defaultPrompt": [
+      "Review my manuscript structure.",
+      "Polish this scientific paragraph.",
+      "Draft a reviewer response."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "scientific-manuscript-writing-codex-marketplace",
+  "interface": {
+    "displayName": "Scientific Manuscript Writing Codex Skills"
+  },
+  "plugins": [
+    {
+      "name": "scientific-manuscript-writing-kit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/scientific-manuscript-writing-kit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Research"
+    }
+  ]
+}
