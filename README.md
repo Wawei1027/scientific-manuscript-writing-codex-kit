@@ -24,8 +24,14 @@ It is designed for general writing workflows, templates, and checklists. It does
 ## Install
 
 ```bash
-/Applications/Codex.app/Contents/Resources/codex plugin marketplace add Wawei1027/scientific-manuscript-writing-codex-kit --ref manuscript-writing-skills
+codex plugin marketplace add Wawei1027/scientific-manuscript-writing-codex-kit --ref manuscript-writing-skills
+codex
+/plugins
 ```
+
+## Quickstart
+
+See `QUICKSTART.md` for installation, activation, and smoke-test instructions.
 
 ## Usage Examples
 
